@@ -12,7 +12,7 @@ I analyzed the dataset to visualize the breakdown of rides, rider types, peak ho
 ### Bike Trip Duration
 #### Length of Checkout Time
 ![](analysis/checkoutTimes.png)
-In August in New York City, the most trips fell between 3.5-8.5 hours. The data shows that bike trips under an hour were scarce and riders were not likely to use Citibike for quick trips under an hour.
+In August in New York City, the greatet amount of rides per duration fell between 3.5-8.5 hours. The data shows that bike trips under an hour were scarce and riders were more likely to use Citibike for multi-hour trisps.
 
 #### Length of Checkout Time by Gender
 ![](analysis/checkoutTimesByGender.png)
