@@ -1,7 +1,6 @@
 # Bike-sharing
 
-## Link to Tableau Dashboard
-[link to dashboard](LINK GOES HERE)
+[Link to dashboard](https://public.tableau.com/app/profile/joey.myers2304/viz/NYCCitibikeAnalysis_16497893342050/NYCCitibikeAnalysis)
 
 ## Overview
 ### Purpose
