@@ -11,33 +11,33 @@ I analyzed the dataset to visualize the breakdown of rides, rider types, peak ho
 ## Results
 ### Bike Trip Duration
 #### Length of Checkout Time
-![](analysis/checkoutTimes.png)
+![](analysis/checkoutTimes.png) <br>
 In August in New York City, the greatet amount of rides per duration fell between 3.5-8.5 hours. The data shows that bike trips under an hour were scarce and riders were more likely to use Citibike for multi-hour trisps.
 
 #### Length of Checkout Time by Gender
-![](analysis/checkoutTimesByGender.png)
+![](analysis/checkoutTimesByGender.png) <br>
 There were far more bike trips taken by males than both female and unknown genders. Males and females followed a similar trend where most trip durations were between the 3.5-8 hour range, though. Unknown genders maintained roughly the same amount of trips for all durations.
 
 ### Trips Per Weekday
 #### Start Times
-![](analysis/startTimes.png)
+![](analysis/startTimes.png) <br>
 Monday-Friday, Citibike was most popular around 8 AM and 5-6 PM. This data could suggest that Citibike could be mode of transportation to and from work for city dwellers. Saturday receieved a significant amount of rides throughout mid-morning to late in the evening.
 
 #### Start Times by Gender
-![](analysis/startTimesByGender.png)
+![](analysis/startTimesByGender.png) <br>
 Males and females followed a similar pattern of start time popularity, but males simply accounted for more bike trips. 8 AM and 5-6 PM were the most popular time slots for bike trips for males and females. Bike trips from genders that were unknown were most popular throughout the day on Saturday.
 
 ### User Types
 #### User Type by Gender
-![](analysis/userInfo.png)
+![](analysis/userInfo.png) <br>
 Subscribers far outnumbered customers as 81.1% of bike trips were taken from subscribers. Male subscribers accounted for 59% of all bike trips alone. Female subscribers accounted for 22% of all bike trips.
 
 #### User Type Trips by Gender and Weekday
-![](analysis/userStartTimes.png)
+![](analysis/userStartTimes.png) <br>
 This heatmap shows that the vast majority of bike trips came from male subscribers. Each day this group accounted for the most rides.
 
 #### Subscriber Ride Count by Age and Gender
-![](analysis/subscriberInfo.png)
+![](analysis/subscriberInfo.png) <br>
 For subscribers, Citibike popularity increases as birth year increases until 1990 for males and 1992 for females. Mid-20s to early 30s for both men and women contribute the most rides.
 
 
